@@ -10,6 +10,6 @@ I am currently a junior computer science student at Sabanci University.
 
 ## Projects
 
- - RSA and Pseudoprimes
- - SUdanUCUZ
- - Turkey Football Platform (TFP)
+ - [RSA and Pseudoprimes](https://github.com/atahf/Pseudoprime-vs-Primes)
+ - [SUdanUCUZ](https://github.com/atahf/SUdanUCUZ)
+ - [Turkey Football Platform (TFP)](https://github.com/SU-CS308-22FA/Team-41-Frontend)
