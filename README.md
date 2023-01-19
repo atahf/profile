@@ -3,7 +3,8 @@ I am currently a junior computer science student at Sabanci University.
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ata-hosseinzadeh-fard-433040191) 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ata-hosseinzadeh-fard-433040191)
+[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/ataollah)
 
 # 💻 Languages:
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
@@ -19,7 +20,7 @@ I am currently a junior computer science student at Sabanci University.
  - [Turkey Football Platform (TFP)](https://github.com/SU-CS308-22FA/Team-41-Frontend)
 
 
-# [Hackerrank](https://www.hackerrank.com/ataollah)
+## Hackerrank Badges and Certificates
  ![]() ![]() ![]() ![](assets/python_5_star.png) ![](assets/30_days_of_code_5_star.png) ![]() ![]() ![]() ![]()
  
  <a href="https://www.hackerrank.com/certificates/d4136d5330e2">![](assets/problem_solving_basic_skill.png)</a>
