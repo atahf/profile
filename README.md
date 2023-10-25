@@ -20,3 +20,6 @@ I am currently a senior computer science student at Sabanci University.
  - [Turkey Football Platform (TFP)](https://github.com/SU-CS308-22FA/Team-41-Frontend)
  - [Secure Channel Application](https://github.com/atahf/SecureChannelApplication)
  - [IntraLink](https://github.com/atahf/IntraLink)
+
+
+ - [Assignment solutions for some of CS courses during my studies at Sabanci University](https://github.com/atahf/Sabanci-University)
