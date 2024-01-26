@@ -17,7 +17,7 @@ I am currently a senior computer science student at Sabanci University.
  - [RSA and Pseudoprimes](https://github.com/atahf/Pseudoprime-vs-Primes)
  - [Sample Database System for Hospital](https://github.com/atahf/cs306db)
  - [SUdanUCUZ](https://github.com/atahf/SUdanUCUZ)
- - [Turkey Football Platform (TFP)](https://github.com/SU-CS308-22FA/Team-41-Frontend)
+ - [Turkey Football Platform (TFP)](https://github.com/atahf/Team-41-Frontend)
  - [Secure Channel Application](https://github.com/atahf/SecureChannelApplication)
  - [IntraLink](https://github.com/atahf/IntraLink)
  - [SmartPhish](https://github.com/atahf/SmartPhish) (graduation project)
