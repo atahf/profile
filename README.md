@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently a senior computer science student at Sabanci University.
+I am a computer science graduate from Sabanci University.
 
 
 ## 🌐 Socials:
